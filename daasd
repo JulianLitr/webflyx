@@ -1,0 +1,55 @@
+[33mcommit 83bee847460aa02285fae9c117acb33b54bf0e57[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mupdate_dune[m[33m)[m
+Author: JulianLitr <julianglitrento@gmail.com>
+Date:   Mon Jan 13 17:14:19 2025 -0500
+
+    I: spice quote 2
+
+[33mcommit 48c2628178f725886e5bf8c9940c5c8839f7cfc9[m
+Author: JulianLitr <julianglitrento@gmail.com>
+Date:   Mon Jan 13 15:30:21 2025 -0500
+
+    H: spice quote
+
+[33mcommit ad256f52368e0bed5bacf9dd03d414b9a68fbfbf[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: JulianLitr <julianglitrento@gmail.com>
+Date:   Mon Jan 13 12:41:41 2025 -0500
+
+    G: updated title
+
+[33mcommit 3991aa36121550f6b253a2bc4aef6d2e1624542a[m
+Merge: f8ee85e 23dbd4a
+Author: JulianLitr <julianglitrento@gmail.com>
+Date:   Mon Jan 13 11:16:51 2025 -0500
+
+    Merge branch 'add_classics'
+    F: Merge Branch "add_classics"
+
+[33mcommit f8ee85eae1d057140a4157c962432deb3f1c6223[m
+Author: JulianLitr <julianglitrento@gmail.com>
+Date:   Mon Jan 13 11:10:13 2025 -0500
+
+    E: Updated contents.md
+
+[33mcommit 23dbd4a06812710a524848315f88c45e465ffdbd[m
+Author: JulianLitr <julianglitrento@gmail.com>
+Date:   Mon Jan 13 11:01:32 2025 -0500
+
+    D: Adding classics
+
+[33mcommit fcacda3b9f73f893aa226551e81aebc5d3f6910a[m
+Author: JulianLitr <julianglitrento@gmail.com>
+Date:   Fri Jan 10 23:33:14 2025 -0500
+
+    C: added quotes directory and files
+
+[33mcommit f1057c254458f84f5d8587e1c4d7f624798d7218[m
+Author: JulianLitr <julianglitrento@gmail.com>
+Date:   Fri Jan 10 23:23:50 2025 -0500
+
+    B: Titles file added
+
+[33mcommit dd249fc1a73ee1d0dca793dea0fdfc067dcc4ffe[m
+Author: JulianLitr <julianglitrento@gmail.com>
+Date:   Fri Jan 10 15:28:11 2025 -0500
+
+    A: add contents.md
